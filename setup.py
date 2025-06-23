@@ -14,7 +14,7 @@ class bdist_wheel(bdist_wheel_orig):
     def run(self):
         import webbrowser
 
-        webbrowser.open("https://xkcd.com/353/")
+        webbrowser.open("https://puginarug.com/")
         super().run()
 
 
